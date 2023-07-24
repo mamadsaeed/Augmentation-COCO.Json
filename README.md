@@ -1,2 +1,2 @@
-# Augmentation-COCO.Json
-Coco dataset augmentation - instance segmentation - X8 -
+# Augmentation-COCO_json.py
+Coco dataset augmentation - instance segmentation - X8
